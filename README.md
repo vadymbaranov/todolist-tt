@@ -3,6 +3,7 @@ Registration landing page with some animations.
 React, HTML, SCSS, Bulma, ESLint
 
 - [DEMO LINK](https://vadymbaranov.github.io/todolist-tt/)
+- [LinkedIn](https://www.linkedin.com/in/vadym-baranov/)
 
 To use this repo locally you need to:
 - Fork the repo
