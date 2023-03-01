@@ -1,9 +1,15 @@
-# React TypeScript Starter Pack
+Registration landing page with some animations.
 
-To use this template click `Use this template`
+React, HTML, SCSS, Bulma, ESLint
 
-### Available Scripts
+- [DEMO LINK](https://vadymbaranov.github.io/todolist-tt/)
 
-`Deploy` - available to deploy your application to gh-pages
+To use this repo locally you need to:
+- Fork the repo
+- Download the repo with git clone
+- Navigate to the folder you cloned the repo to
+- Make sure you have Node v14 installed and active
+- Run `npm install` or `npm i` in your terminal through VS Code or any other terminal, just make sure you are currently in the repo folder
+- Run `npm start` - the project will open in your default browser
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+The project works with local storage. The list starts blank, so you will need to add todos to see them in the list.
